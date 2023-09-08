@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="56.2440 -60.3494 1.3235 76.7651 -51.5299 33.9853" targetId="13aca0fcff5344c5a12b78704766a620" name="jnu2" pathAuthoring="13aca0fcff5344c5a12b78704766a620_authoring.glb" pathOcclusion="13aca0fcff5344c5a12b78704766a620_occlusion.3dt" pathNavMesh="13aca0fcff5344c5a12b78704766a620_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

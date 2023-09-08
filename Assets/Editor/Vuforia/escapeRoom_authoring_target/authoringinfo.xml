@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="1.4958 -8.8575 21.2766 8.5008 -4.3862 26.4730" targetId="7c8386940d9c4a8092a5a2757d0f3f74" name="escapeRoom_authoring_target" pathAuthoring="7c8386940d9c4a8092a5a2757d0f3f74_authoring.glb" pathOcclusion="7c8386940d9c4a8092a5a2757d0f3f74_occlusion.3dt" pathNavMesh="7c8386940d9c4a8092a5a2757d0f3f74_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
